@@ -4,6 +4,8 @@ border: 0.2rem solid purple;
 border-collapse: collapse;
 background-color: orange;
 color: blue;
+font-weight: bold;
+font-style: italic;
 font-size: 36px;
 text-align: center;
 table-layout: auto;
